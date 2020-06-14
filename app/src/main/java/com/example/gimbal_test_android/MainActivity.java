@@ -36,7 +36,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
 
         Gimbal.setApiKey(getApplication(),
-                "93e313ec-ce06-4169-9703-57d72352e5ee");
+                "390e55a9-83e8-4366-917b-befbdf182da6");
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
